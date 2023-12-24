@@ -4,7 +4,7 @@
 - 🌱 Learning *__JavaScript__*
 
 
-<img align="center" alt="TiagoJs" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css>
+<img align="center" alt="TiagoJs" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg>
           
 <!--
 **TiagoGrebogi/TiagoGrebogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
