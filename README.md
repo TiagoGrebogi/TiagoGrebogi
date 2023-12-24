@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=100&size=30&duration=3000&pause=1000&color=F733C2&center=true&multiline=true&random=false&width=435&height=400&lines=Software+Engineer+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=100&size=30&duration=3000&pause=1000&color=F733C2&center=true&multiline=true&random=false&width=435&lines=Software+Engineer+Student" alt="Typing SVG" /></a>
 ###
 - 🔭 Working on PEPSICO
 - 🌱 Learning JavaScript
