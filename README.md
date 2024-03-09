@@ -11,6 +11,7 @@
   <img align="center" alt="Tiago-R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Tiago-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Tiago-Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Tiago-Java heigh="50" width="50" src="https://icons8.com/icon/13679/java">
 </div>
 <br/>
 <div>
