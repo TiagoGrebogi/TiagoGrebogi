@@ -12,6 +12,7 @@
   <img align="center" alt="Tiago-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Tiago-Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 </div>
+<br/>
 <div>
 <a href="https://github.com/TiagoGrebogi">
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGrebogi&layout=compact&langs_count=7&theme=dracula"/>
