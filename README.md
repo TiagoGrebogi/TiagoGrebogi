@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=100&size=30&duration=3000&pause=1000&color=F733C2&center=true&multiline=true&random=false&width=435&lines=Software+Engineer+Student" alt="Typing SVG" /></a>
 ###
 - 🔭 Working on *__PEPSICO__*
-- 🌱 Learning *__JavaScript__*
+- 🌱 Learning *__JavaScript__*, *__Java__*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
