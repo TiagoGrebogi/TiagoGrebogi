@@ -1,26 +1,32 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=100&size=30&duration=3000&pause=1000&color=F733C2&center=true&multiline=true&random=false&width=435&lines=Software+Engineer+Student" alt="Typing SVG" /></a>
-###
-- 💼 Working on *__PEPSICO__*
-- 📝 Learning *__Programming Logic__* and *__C__*
+<h1 align="center">Olá, eu sou o Tiago! 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=100&size=30&duration=3000&pause=1000&color=F733C2&center=true&multiline=true&random=false&width=435&lines=Software+Engineer+Student" alt="Typing SVG" />
+  </a>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Tiago-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiago-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tiago-R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Tiago-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Tiago-Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+<p align="center">
+  💼 Trabalhando na <strong>PEPSICO</strong>
+  <br>
+  📝 Aprendendo <strong>Lógica de Programação</strong> e <strong>C</strong>
+</p>
 
-          
-
-          
+<div align="center">
+  <h3>Tecnologias que estou utilizando:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="50" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" height="50" width="50">
 </div>
-<br/>
-<div>
-<a href="https://github.com/TiagoGrebogi">
-<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGrebogi&layout=compact&langs_count=7&theme=dark"/>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/TiagoGrebogi">
+    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGrebogi&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-<!--
-**TiagoGrebogi/TiagoGrebogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
