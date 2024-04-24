@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Tiago! 👋</h1>
+<h1 align="center">Hi, I'm Tiago!</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=100&size=30&duration=3000&pause=1000&color=F733C2&center=true&multiline=true&random=false&width=435&lines=Software+Engineer+Student" alt="Typing SVG" />
@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  💼 Trabalhando na <strong>PEPSICO</strong>
+  💼 Working on <strong>PEPSICO</strong>
   <br>
-  📝 Aprendendo <strong>Lógica de Programação</strong> e <strong>C</strong>
+  📝 Learning <strong>JavaScript</strong>
 </p>
 
 <div align="center">
-  <h3>Tecnologias que estou utilizando:</h3>
+  <h3>Technologies:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="50" width="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" width="50">
