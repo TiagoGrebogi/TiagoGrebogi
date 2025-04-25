@@ -8,7 +8,7 @@
 <p align="center">
   💼 Working on <strong>PEPSICO</strong>
   <br>
-  📝 Learning <strong>JavaScript</strong>
+  📝 Learning <strong>Python</strong>
 </p>
 
 <div align="center">
