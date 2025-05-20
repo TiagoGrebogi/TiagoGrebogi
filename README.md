@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a src="https://www.linkedin.com/in/tiago-nogueira-5667b7257/">Tiago</a>!</h1>
+<h1 align="center">Hi, I'm Tiago!</h1>
 <p align="center">
   <a href="https://github.com/TiagoGrebogi">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=100&size=30&duration=3000&pause=1000&color=00b5d5&center=true&multiline=true&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" />
