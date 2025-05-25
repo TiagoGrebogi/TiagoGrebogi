@@ -33,6 +33,6 @@
   
   <span>
     <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoGrebogi&layout=compact&langs_count=7&theme=dark" />
-    <img align="right" top="500" height="200em" width="400" alt="GIF" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
+    <img align="right" height="200em" width="400" alt="GIF" src="https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif">
   </span>
 </p>
