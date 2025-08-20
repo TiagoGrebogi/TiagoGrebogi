@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  💼 Working on <strong>PEPSICO</strong>
+  💼 Working on <strong>Selettra</strong>
   <br>
   📝 Learning <strong>Python</strong>
 </p>
